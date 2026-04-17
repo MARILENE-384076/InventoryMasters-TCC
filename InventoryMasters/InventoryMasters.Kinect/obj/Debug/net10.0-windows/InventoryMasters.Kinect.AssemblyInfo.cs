@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventoryMasters.Kinect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c23a2aff7166b6f4c796f44cfad1b51af28950ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e05a50f780c2a6734aef8ca8061668da74b33443")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventoryMasters.Kinect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventoryMasters.Kinect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
