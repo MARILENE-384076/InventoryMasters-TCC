@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJ2jYm28+MQ=",
+  "dgSpecHash": "9lFjEq5yurs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maryl\\RiderProjects\\InventoryMasters\\InventoryMasters.Web\\InventoryMasters.Web.csproj",
+  "projectFilePath": "C:\\Users\\maryl\\source\\repos\\InventoryMasters-TCC\\InventoryMasters\\InventoryMasters.Web\\InventoryMasters.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maryl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\maryl\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
